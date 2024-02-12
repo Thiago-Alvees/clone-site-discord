@@ -136,6 +136,10 @@ footer{
         font-size: 3rem;
 
     }
+
+    #section-2{
+        flex-direction: row-reverse;
+    }
     
     .textos-section-2 > h2{
         font-size: 3rem;
